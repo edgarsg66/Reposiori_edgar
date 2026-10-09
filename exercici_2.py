@@ -5,7 +5,6 @@
 
 # Exercici 1
 # Imprimeix el tipus del número 25
-import types
 print(type(25))
 
 # Exercici 2
