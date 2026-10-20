@@ -80,3 +80,4 @@ print(f"Referència: {referencia}")
 fruites= ["Poma", "pera", "PLÀTAN", "taronja"]
 fruites.sort(key=str.lower)
 print(fruites)
+
