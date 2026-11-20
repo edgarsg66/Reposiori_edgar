@@ -4,7 +4,7 @@ estudiant = {
   "edat": 19,
   "fruita_fav": ["poma", "platan", "kiwi"]
 }
-print(estudianat)
+print(estudiant)
 
 # Exercici 2: Accedir i modificar
 print(estudiant["fruita_fav"][1])  
