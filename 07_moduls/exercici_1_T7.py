@@ -12,6 +12,8 @@
 x = 3.0
 y = 4.0
 # TODO: escriu les importacions i els càlculs.
+import math as matematiques
+
 
 # Exercici 2 - Bàsic. Conversions reutilitzables
 # Importa conversions amb l'àlies conv i utilitza les seves funcions.
